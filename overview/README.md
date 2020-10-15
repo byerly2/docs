@@ -77,7 +77,7 @@ To make using Dapr more natural for different languages, it also includes langua
 - **[.NET SDK](https://github.com/dapr/dotnet-sdk)**
 
 > Note: Dapr is language agnostic and provides a [RESTful HTTP API](../reference/api/README.md) in addition to the protobuf clients.
-
+🎃
 ### Developer frameworks
 Dapr can be used from  any developer framework. Here are some that have been integrated with Dapr.
 
